@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"effect_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"effect_init",
+  "parent":{
+    "name":"Effect",
+    "path":"folders/Scripts/Phantasia/Entities/Effect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

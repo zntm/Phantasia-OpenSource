@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"menu_settings_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menu_settings_update",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Scripts/Phantasia/Menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

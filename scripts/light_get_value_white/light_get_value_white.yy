@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"light_get_value_white",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"light_get_value_white",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/Scripts/Phantasia/Lights.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

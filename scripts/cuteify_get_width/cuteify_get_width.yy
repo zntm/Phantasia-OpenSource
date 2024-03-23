@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cuteify_get_width",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cuteify_get_width",
+  "parent":{
+    "name":"Cuteify",
+    "path":"folders/Scripts/Functions/Cuteify.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

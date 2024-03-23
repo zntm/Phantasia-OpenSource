@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"load_structures",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_structures",
+  "parent":{
+    "name":"Load",
+    "path":"folders/Scripts/Phantasia/Load.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

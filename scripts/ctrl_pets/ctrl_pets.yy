@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ctrl_pets",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctrl_pets",
+  "parent":{
+    "name":"Controls",
+    "path":"folders/Scripts/Phantasia/Controls.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

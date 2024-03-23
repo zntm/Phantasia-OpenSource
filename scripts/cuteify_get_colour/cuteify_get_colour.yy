@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cuteify_get_colour",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cuteify_get_colour",
+  "parent":{
+    "name":"Cuteify",
+    "path":"folders/Scripts/Functions/Cuteify.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

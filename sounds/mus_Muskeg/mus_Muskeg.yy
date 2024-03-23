@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Muskeg",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":174.94203,
+  "name":"mus_Muskeg",
+  "parent":{
+    "name":"3 - Swamplands",
+    "path":"folders/Game Data/Biome Data/Surface Biomes/3 - Swamplands.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Muskeg.mp3",
+  "type":0,
+  "volume":1.0,
+}

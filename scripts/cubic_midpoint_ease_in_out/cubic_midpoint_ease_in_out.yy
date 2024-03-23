@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cubic_midpoint_ease_in_out",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cubic_midpoint_ease_in_out",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

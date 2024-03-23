@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Permafrost",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":93.126526,
+  "name":"mus_Permafrost",
+  "parent":{
+    "name":"5 - Tundra",
+    "path":"folders/Game Data/Biome Data/Surface Biomes/5 - Tundra.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Permafrost.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Yellowish",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":202.10281,
+  "name":"mus_Yellowish",
+  "parent":{
+    "name":"6 - Savannah",
+    "path":"folders/Game Data/Biome Data/Surface Biomes/6 - Savannah.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Yellowish.ogg",
+  "type":0,
+  "volume":1.0,
+}

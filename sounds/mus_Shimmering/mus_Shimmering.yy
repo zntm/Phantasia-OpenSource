@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Shimmering",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":272.222,
+  "name":"mus_Shimmering",
+  "parent":{
+    "name":"6 - Chrystal",
+    "path":"folders/Game Data/Biome Data/Cave Biomes/6 - Chrystal.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Shimmering.mp3",
+  "type":0,
+  "volume":1.0,
+}

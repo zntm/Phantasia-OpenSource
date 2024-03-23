@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bg_time_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bg_time_update",
+  "parent":{
+    "name":"Miscellaneous",
+    "path":"folders/Scripts/Phantasia/Miscellaneous.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

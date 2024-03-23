@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_Blur",
+  "name":"shd_Blur",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

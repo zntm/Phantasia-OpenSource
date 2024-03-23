@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_get_seed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_get_seed",
+  "parent":{
+    "name":"Strings",
+    "path":"folders/Scripts/Phantasia/Strings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

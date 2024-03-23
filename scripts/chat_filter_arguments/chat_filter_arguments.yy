@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"chat_filter_arguments",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"chat_filter_arguments",
+  "parent":{
+    "name":"Chat",
+    "path":"folders/Scripts/Phantasia/Chat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

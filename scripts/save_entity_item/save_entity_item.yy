@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"save_entity_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_entity_item",
+  "parent":{
+    "name":"Entity",
+    "path":"folders/Scripts/Phantasia/Saves/Entity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

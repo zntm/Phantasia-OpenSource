@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"refresh_craftables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"refresh_craftables",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Scripts/Phantasia/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

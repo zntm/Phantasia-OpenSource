@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_Maurice_Off",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.3135,
+  "name":"sfx_Maurice_Off",
+  "parent":{
+    "name":"0 - Maurice",
+    "path":"folders/Game Data/Pet Data/0 - Maurice.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_Maurice_Off.mp3",
+  "type":0,
+  "volume":1.0,
+}

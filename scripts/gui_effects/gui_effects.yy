@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gui_effects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gui_effects",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/Scripts/Phantasia/GUI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_is_hex_colour",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_is_hex_colour",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

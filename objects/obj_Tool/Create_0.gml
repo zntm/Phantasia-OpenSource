@@ -1,0 +1,1 @@
+accessory_speed = accessory_get_buff(BUFF_ATTACK_SPEED, obj_Player);

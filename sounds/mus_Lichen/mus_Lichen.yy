@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Lichen",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":262.11615,
+  "name":"mus_Lichen",
+  "parent":{
+    "name":"3 - Verdant",
+    "path":"folders/Game Data/Biome Data/Cave Biomes/3 - Verdant.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Lichen.ogg",
+  "type":0,
+  "volume":1.0,
+}

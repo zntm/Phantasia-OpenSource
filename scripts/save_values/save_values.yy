@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"save_values",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_values",
+  "parent":{
+    "name":"Saves",
+    "path":"folders/Scripts/Phantasia/Saves.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

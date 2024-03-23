@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cuteify_get_height",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cuteify_get_height",
+  "parent":{
+    "name":"Cuteify",
+    "path":"folders/Scripts/Functions/Cuteify.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

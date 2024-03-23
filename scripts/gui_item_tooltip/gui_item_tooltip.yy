@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gui_item_tooltip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gui_item_tooltip",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/Scripts/Phantasia/GUI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

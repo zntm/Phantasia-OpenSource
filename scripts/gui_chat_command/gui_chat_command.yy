@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gui_chat_command",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gui_chat_command",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/Scripts/Phantasia/GUI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

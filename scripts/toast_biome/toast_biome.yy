@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"toast_biome",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"toast_biome",
+  "parent":{
+    "name":"Toast",
+    "path":"folders/Scripts/Phantasia/Toast.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

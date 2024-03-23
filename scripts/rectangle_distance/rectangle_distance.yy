@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"rectangle_distance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rectangle_distance",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

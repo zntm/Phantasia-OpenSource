@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"uuid_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"uuid_create",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

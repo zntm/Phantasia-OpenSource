@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_Glass_Place_00",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":1.266122,
+  "name":"sfx_Glass_Place_00",
+  "parent":{
+    "name":"10 - Glass",
+    "path":"folders/Game Data/SFX Data/10 - Glass.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_Glass_Place_00.ogg",
+  "type":0,
+  "volume":1.0,
+}

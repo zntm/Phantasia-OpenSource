@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"physics_step_projectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"physics_step_projectile",
+  "parent":{
+    "name":"Projectiles",
+    "path":"folders/Scripts/Phantasia/Entities/Projectiles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

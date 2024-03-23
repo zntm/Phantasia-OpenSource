@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Heartbeat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":195.47427,
+  "name":"mus_Heartbeat",
+  "parent":{
+    "name":"4 - Obitus",
+    "path":"folders/Game Data/Biome Data/Cave Biomes/4 - Obitus.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Heartbeat.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"item_interaction_door",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"item_interaction_door",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Phantasia/Tile/Attributes/Item/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

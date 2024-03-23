@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"load_entity_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_entity_item",
+  "parent":{
+    "name":"Load",
+    "path":"folders/Scripts/Phantasia/Load.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

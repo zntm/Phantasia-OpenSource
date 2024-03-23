@@ -1,0 +1,1 @@
+colour_offset = light_get_offset(0, 0, 0);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"save_chunk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_chunk",
+  "parent":{
+    "name":"Saves",
+    "path":"folders/Scripts/Phantasia/Saves.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

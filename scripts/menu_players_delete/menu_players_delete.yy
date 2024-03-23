@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"menu_players_delete",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menu_players_delete",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Scripts/Phantasia/Menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

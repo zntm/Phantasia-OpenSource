@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"inventory_drop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inventory_drop",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Scripts/Phantasia/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

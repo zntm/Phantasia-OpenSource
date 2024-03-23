@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sort_alphabetical_descending",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sort_alphabetical_descending",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

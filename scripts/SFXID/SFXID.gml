@@ -1,0 +1,20 @@
+enum SFX {
+	WOOD,
+	GRAIN,
+	STONE,
+	DIRT,
+	CHICKEN,
+	COW,
+	FROG,
+	OWL,
+	DUCK,
+	LEAVES,
+	GLASS,
+	METAL,
+	RAT,
+	SNOW,
+	BRICKS,
+	
+	LENGTH,
+	EMPTY = -1
+}

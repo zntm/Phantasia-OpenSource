@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_Explosion_03",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":2.701746,
+  "name":"sfx_Explosion_03",
+  "parent":{
+    "name":"Miscellaneous",
+    "path":"folders/Sounds/Sound Effects/Miscellaneous.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_Explosion_03.ogg",
+  "type":0,
+  "volume":1.0,
+}

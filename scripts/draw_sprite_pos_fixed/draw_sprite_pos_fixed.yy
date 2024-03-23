@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_sprite_pos_fixed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_sprite_pos_fixed",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

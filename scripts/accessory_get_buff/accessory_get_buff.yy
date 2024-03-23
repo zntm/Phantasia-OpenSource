@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"accessory_get_buff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"accessory_get_buff",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Scripts/Phantasia/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

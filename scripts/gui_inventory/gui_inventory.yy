@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gui_inventory",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gui_inventory",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/Scripts/Phantasia/GUI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

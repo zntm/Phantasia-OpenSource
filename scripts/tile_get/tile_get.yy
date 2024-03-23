@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"tile_get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tile_get",
+  "parent":{
+    "name":"Tile",
+    "path":"folders/Scripts/Phantasia/Tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

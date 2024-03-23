@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawn_toast",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_toast",
+  "parent":{
+    "name":"Spawn",
+    "path":"folders/Scripts/Phantasia/Spawn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

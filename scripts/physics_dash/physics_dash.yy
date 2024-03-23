@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"physics_dash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"physics_dash",
+  "parent":{
+    "name":"Physics",
+    "path":"folders/Scripts/Phantasia/Entities/Physics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

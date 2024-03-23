@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"chat_execute",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"chat_execute",
+  "parent":{
+    "name":"Chat",
+    "path":"folders/Scripts/Phantasia/Chat.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"menu_worlds_on_press",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"menu_worlds_on_press",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Scripts/Phantasia/Menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

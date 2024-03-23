@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"structure_import",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"structure_import",
+  "parent":{
+    "name":"Attributes",
+    "path":"folders/Scripts/Phantasia/Tile/Attributes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

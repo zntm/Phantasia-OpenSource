@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"light_get_offset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"light_get_offset",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/Scripts/Phantasia/Lights.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

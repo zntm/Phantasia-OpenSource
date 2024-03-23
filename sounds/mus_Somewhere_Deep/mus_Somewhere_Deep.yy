@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Somewhere_Deep",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":139.67673,
+  "name":"mus_Somewhere_Deep",
+  "parent":{
+    "name":"0 - Stone",
+    "path":"folders/Game Data/Biome Data/Cave Biomes/0 - Stone.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Somewhere_Deep.mp3",
+  "type":0,
+  "volume":1.0,
+}

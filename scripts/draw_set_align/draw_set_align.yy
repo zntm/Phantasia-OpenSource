@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_set_align",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_set_align",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Dune",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":206.87946,
+  "name":"mus_Dune",
+  "parent":{
+    "name":"1 - Desert",
+    "path":"folders/Game Data/Biome Data/Surface Biomes/1 - Desert.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Dune.ogg",
+  "type":0,
+  "volume":1.0,
+}

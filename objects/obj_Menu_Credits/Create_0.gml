@@ -1,0 +1,1 @@
+global.credits_offset = 0;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"surface_free_existing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surface_free_existing",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

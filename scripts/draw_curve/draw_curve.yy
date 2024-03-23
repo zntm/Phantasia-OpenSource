@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_curve",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_curve",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scripts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

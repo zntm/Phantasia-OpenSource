@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_Another_Day",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":87.390274,
+  "name":"mus_Another_Day",
+  "parent":{
+    "name":"0 - Greenia",
+    "path":"folders/Game Data/Biome Data/Surface Biomes/0 - Greenia.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_Another_Day.ogg",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"player_mine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"player_mine",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Phantasia/Entities/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
